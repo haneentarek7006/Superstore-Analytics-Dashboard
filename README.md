@@ -48,4 +48,4 @@ An interactive, multi-page Power BI dashboard designed with a custom dark neon t
 - Business Intelligence: Microsoft Power BI
 - Data Transformation: Power Query (ETL)
 - Advanced DAX Measures: Custom KPIs, Profit Margins, and Aggregations
-- UI/UX Design: Custom Dark Neon UI with smooth page navigation buttons (Overview, Analyze, Table) and dynamic top slicers (State, Sub-Category, Year, Month).
+- Design: Custom Dark Neon UI with smooth page navigation buttons (Overview, Analyze, Table) and dynamic top slicers (State, Sub-Category, Year, Month).
